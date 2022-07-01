@@ -26,4 +26,4 @@ Features:
   
 4) Time and Space complexity of algorithm being visualized.
 
-
+<img src="https://user-images.githubusercontent.com/81374292/176901446-dcc53a81-bef9-49e6-a1df-b593b2e57ab0.png" width="200" height="200">
